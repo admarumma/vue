@@ -1,0 +1,16 @@
+<template>
+  <div>
+    This is profile
+    <h1>{{ $route.params.id }}</h1>
+  </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style scoped>
+
+</style>
